@@ -1,5 +1,7 @@
-
+OVERVIEW
 
 This web application is designed to make people’s votes count more effectively. It’s a platform for creating polls where the options are carefully reviewed by qualified experts before reaching voters. When an organizer sets up a poll, the options are sent to a group of experts who specialize in the poll’s topic and come from diverse backgrounds to minimize bias. The experts provide feedback on each option, highlighting its advantages and disadvantages. After this review, the poll is sent to a representative group of users who rank the options while considering the experts’ feedback. This approach helps voters better understand the key considerations and make more informed decisions. Finally, the organizer can view the results and see which option was selected.
 
 The frontend is built using React with Bootstrap for styling, and includes separate pages for organizers, experts, and voters. The backend uses Firebase to store poll data and expert feedback. We also implemented a system that identifies relevant experts and voters for each poll. Notifications and reminders are sent via Twilio, making the commenting and voting process more user-friendly and interactive.
+
+Bilal Tom Zaidi
