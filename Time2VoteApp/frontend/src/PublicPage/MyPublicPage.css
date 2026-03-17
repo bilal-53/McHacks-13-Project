@@ -1,0 +1,10 @@
+.myWrapper {
+  background-color: aliceblue;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.public-card-title {
+  background-color: aliceblue;
+  margin-bottom: 0;
+}
