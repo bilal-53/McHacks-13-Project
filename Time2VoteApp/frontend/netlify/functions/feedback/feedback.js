@@ -1,7 +1,7 @@
 import googleIt from 'google-it'
 
-const accountSid = 'AC5bbc96d5b1f4bde0c6e1e5bd4531ac7c';
-const authToken = '8101c87718e54f2da2aa6ab4bedb24b1';
+const accountSid = 'AC5bbc96d5b1f4bde0c6e1e5bd41ac7c';
+const authToken = '8101c87718e54f2da2aa64bedb24b1';
 const client = require('twilio')(accountSid, authToken);
 
 export const handler = async (event) => {
